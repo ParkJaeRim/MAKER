@@ -7,3 +7,4 @@ The name is '쓰담쓰다'
 We invented it with app inventor2.
 Our team will develop this app on 2018 summer vacation with Android Studio.
 
+![our main image](https://github.com/ParkJaeRim/MAKER/tree/master/pic/main)
