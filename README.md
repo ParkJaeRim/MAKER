@@ -8,4 +8,4 @@ We invented it with app inventor2.
 Our team will develop this app on 2018 summer vacation with Android Studio.
 
 ![our main image](./pic/main.jpg)
-![our logo](./pic/logo.png)
+![our logo](./pic/icon.png)
