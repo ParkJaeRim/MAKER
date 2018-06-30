@@ -8,7 +8,7 @@ Our team will develop this app on 2018 summer vacation with Android Studio.
 
 Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박재림](https://github.com/ParkJaeRim) / 디자인학과 오민석, 이소현 / 소비자학과 최예원, 최주영 <br />
 
-*** <br />
+*** 
 # Market Research
 
 Main Target : 반려동물과 살고 있는 여성들
@@ -16,7 +16,7 @@ Main Target : 반려동물과 살고 있는 여성들
 How to research :In-depth interview, Ethnography, Shadow Tracking, investigae similar app(비트윈,인터파크펫,인투펫)
 
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함 <br />
-*** <br />
+***
 # Function
 #### Home
   
@@ -58,7 +58,7 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함 <br />
 
 5. Add bookmark function on album. <br />
 
-*** <br /> 
+***
 
 # View
 Main Image:
