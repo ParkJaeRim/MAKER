@@ -22,7 +22,7 @@ How to research :
 4. Investigate similar app (비트윈, 인터파크펫, 인투펫)
 <br>
 
-__Research Result : 반려동물의 관한 맞춤형 정보가 부족함
+__Research Result : 반려동물의 관한 맞춤형 정보가 부족함__
 
 ***
 
