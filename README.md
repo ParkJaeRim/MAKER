@@ -15,7 +15,6 @@ How to research :In-depth interview, Ethnography, Shadow Tracking
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 ***
 # Function
-
 #### Home
   
 1. Write Diary on tab of home & send text to diary page
@@ -54,6 +53,8 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 5. Add bookmark function on album.
 
 ***
+
+# View
 Main Image:
 
 ![our main image](./pic/main.jpg)
