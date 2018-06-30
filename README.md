@@ -8,8 +8,7 @@ Our team will develop this app on 2018 summer vacation with Android Studio.
 
 Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박재림](https://github.com/ParkJaeRim) / 디자인학과 오민석, 이소현 / 소비자학과 최예원, 최주영 
 <br>
-*** 
-<br>
+
 
 # Market Research
 
@@ -18,7 +17,7 @@ Main Target : 반려동물과 살고 있는 여성들
 How to research :In-depth interview, Ethnography, Shadow Tracking, investigae similar app(비트윈,인터파크펫,인투펫)
 
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함 
-***
+
 <br>
 
 # Function
@@ -32,8 +31,10 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 3. Make 4 tabs(home, diary, calender, album) 
 <br>
+
 #### Diary
-  <br>
+
+<br>
 1. Can pick date
   
 2. Write diary with image & text
@@ -49,6 +50,7 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 2. We run 'dog&cat recognition algorithm'. [Link]()
 
 <br>
+
 #### We will make..
 ##### ★ We will make all things with android studio. 'aia file' which is upload on my github, is just prototype of our app!
 1. Make calender for manage schedule.
@@ -61,8 +63,11 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 5. Add bookmark function on album. 
 <br>
+
 ***
+
 <br>
+
 # View
 Main Image:
 
