@@ -1,7 +1,7 @@
 # About
 Our team name is '커피사조'
 
-The name is **'쓰담쓰다'
+The name is **'쓰담쓰다'**
 
 We invented it with app inventor2.
 
