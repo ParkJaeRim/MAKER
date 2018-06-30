@@ -68,7 +68,6 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 Main Image:
 
 ![our main image](./pic/main.jpg)
-
 Main Logo:
   
 ![our logo](./pic/icon.png)
