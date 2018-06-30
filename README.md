@@ -16,7 +16,7 @@ Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박�
 Main Target : 반려동물과 살고 있는 여성들
 
 How to research :
-1. In-depth intervie
+1. In-depth interview
 2. Ethnography 
 3. Shadow Tracking
 4. Investigate similar app (비트윈, 인터파크펫, 인투펫)
