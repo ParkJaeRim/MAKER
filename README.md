@@ -15,7 +15,8 @@ How to research :In-depth interview, Ethnography, Shadow Tracking
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 ***
 # Function
-<home>
+
+#### Home
   
 1. Write Diary on tab of home & send text to diary page
   
@@ -23,7 +24,7 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 3. Make 4 tabs(home, diary, calender, album)
 
-<diary>
+#### Diary
   
 1. Can pick date
   
@@ -33,11 +34,24 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 4. Preview of diary (=one line diary)
 
-<album>
+#### Album
   
 1. If select '밤산책', change to page of 'view_album' and you can see detail of album.
 
 2. We run 'dog&cat recognition algorithm'. [Link]()
+
+
+#### We will make..
+
+1. Make calender for manage schedule.
+
+2. Edit pet info page to pet info pop-up. & make to change pet info.
+
+3. When we write diary/album, application can make another blank for a new diary/album.
+
+4. Add recognition algorithm and classify our pet image into our applicatino.
+
+5. Add bookmark function on album.
 
 ***
 Main Image:
