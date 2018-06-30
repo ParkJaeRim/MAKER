@@ -48,7 +48,8 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
   
 1. If select '밤산책', change to page of 'view_album' and you can see detail of album.
 
-2. We run 'dog&cat recognition algorithm'. [Link]()
+2. We run 'dog&cat recognition algorithm'. [Opensource_link]()
+  (upload video on this repository about this algorithm)
 <br>
 
 #### We will make..
