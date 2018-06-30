@@ -18,6 +18,7 @@ How to research :In-depth interview, Ethnography, Shadow Tracking, investigae si
 
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함 
 
+***
 
 # Function
 
