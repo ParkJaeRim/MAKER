@@ -23,6 +23,7 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 3. Make 4 tabs(home, diary, calender, album)
 
+
 #### Diary
   
 1. Can pick date
@@ -33,11 +34,13 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 4. Preview of diary (=one line diary)
 
+
 #### Album
   
 1. If select '밤산책', change to page of 'view_album' and you can see detail of album.
 
 2. We run 'dog&cat recognition algorithm'. [Link]()
+
 
 
 #### We will make..
