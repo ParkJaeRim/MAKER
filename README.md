@@ -6,7 +6,7 @@ We invented it with app inventor2.
 
 Our team will develop this app on 2018 summer vacation with Android Studio.
 
-Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박재림](https://github.com/ParkJaeRim) / 디자인학과 오민석, 이소현 / 소비자학과 최예원, 최주영
+Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박재림](https://github.com/ParkJaeRim) / 디자인학과 오민석, 이소현 / 소비자학과 최예원, 최주영 <br />
 
 *** <br />
 # Market Research
@@ -15,8 +15,8 @@ Main Target : 반려동물과 살고 있는 여성들
 
 How to research :In-depth interview, Ethnography, Shadow Tracking, investigae similar app(비트윈,인터파크펫,인투펫)
 
-Research Result : 반려동물의 관한 맞춤형 정보가 부족함
-***
+Research Result : 반려동물의 관한 맞춤형 정보가 부족함 <br />
+*** <br />
 # Function
 #### Home
   
@@ -24,7 +24,7 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
   
 2. Can change home image if you want
 
-3. Make 4 tabs(home, diary, calender, album)
+3. Make 4 tabs(home, diary, calender, album) <br />
 
 
 #### Diary
@@ -35,14 +35,14 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 3. Can see detail of diary content when you select button.
 
-4. Preview of diary (=one line diary)
+4. Preview of diary (=one line diary) <br />
 
 
 #### Album
   
 1. If select '밤산책', change to page of 'view_album' and you can see detail of album.
 
-2. We run 'dog&cat recognition algorithm'. [Link]()
+2. We run 'dog&cat recognition algorithm'. [Link]() <br />
 
 
 
@@ -56,9 +56,9 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 4. Add recognition algorithm and classify our pet image into our application.
 
-5. Add bookmark function on album.
+5. Add bookmark function on album. <br />
 
-***
+*** <br /> 
 
 # View
 Main Image:
