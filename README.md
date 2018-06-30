@@ -10,6 +10,7 @@ Team Member : 전자공학과 [김소연](https://github.com/soyeon51696), [박�
 <br>
 *** 
 <br>
+
 # Market Research
 
 Main Target : 반려동물과 살고 있는 여성들
@@ -19,8 +20,10 @@ How to research :In-depth interview, Ethnography, Shadow Tracking, investigae si
 Research Result : 반려동물의 관한 맞춤형 정보가 부족함 
 ***
 <br>
+
 # Function
 <br>
+
 #### Home
   
 1. Write Diary on tab of home & send text to diary page
