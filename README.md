@@ -1,5 +1,5 @@
 # About
-Our team is '커피사조'
+Our team name is '커피사조'
 
 The name is '쓰담쓰다'
 
