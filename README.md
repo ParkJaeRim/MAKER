@@ -65,6 +65,8 @@ Research Result : 반려동물의 관한 맞춤형 정보가 부족함
 
 5. Add bookmark function on album. 
 
+  and so on..
+
 ***
 
 # View
