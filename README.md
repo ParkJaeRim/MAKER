@@ -59,7 +59,7 @@ __Research Result : 반려동물의 관한 맞춤형 정보가 부족함__
 <br>
 
 #### We will make..
-##### ★ We will make all things with android studio. 'aia file' which is upload on my github, is just prototype of our app!
+__★ We will make all things with android studio. 'aia file' which is upload on my github, is just prototype of our app!__
 1. Make calender for manage schedule.
 
 2. Edit pet info page to pet info pop-up. & make to change pet info.
